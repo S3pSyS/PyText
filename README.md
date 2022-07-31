@@ -10,11 +10,14 @@ Commands:
 /run & /cmd - run os command.
 ```
 
+```
 Windows:
 Running install-windows.bat simply makes PyText accessible from the commandline by using a shortcut.
 after running this just type 'pt' to run pytext.
+```
 
+```
 Linux:
 Currently I haven't developed a bash script for it but you can do it manually by writing python pytext.py in a bash script
-and then using alias pt=<name of your bash script>
-
+and then using alias pt=<name of your bash script>.
+```
